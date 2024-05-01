@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "windtower-rework",
+  "private_key_id": "11ead96b5baed821822c3f35142984530716e252",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDcj0bwAUguDwac\nk90CPDVkB1WpEeVcnw68pDcXrfos/lKAVMpAvgnBOKsOvSxL9+NXPaIuESS76soN\n3xJh7RQDV1ienxFCTy6lYZC6yAvyWREn+oFudr2RX8JNX3B/2Ud93WNDXXlGHPaH\nh9UXcL9/kROG/NbDUnJ3T7ZqX2d22eWiIQMKYK1lesIBG9GrVuSxG22PN68z2n2q\n6nUZREvZcGfWTc+S6fszPuTyEI7Jy5/igAm87JkmfAp+bLmXtZ04833pzG1PCV3z\nFtPShTwuHcAVnT6Ypwd+25MNRr3/Lc7MHmU3eMrSqOn9Hs190S2zh8rI68CgDkBX\nSfvJtsMNAgMBAAECggEAEZHiVN7G34OeUB1uHWFeRj+Luqh5ZnvCb0ZmBlKU9T4C\ncXgPr1rUKRqSc3dtAdVxIuZ+6f+L0K8/KFEgXdrgEMISn63McKu6uHCOWHeOKBPU\n5fCyz3HReRt+CkhzjEoeEImkM8R/xpUqq5inYeYlgyWzi6A0zyHdJEieOSWsQ5xD\nLVXZUHGS7SVxmjMQcdU1tA3MEHNYGots69I1uQfMZytKFdz+Irpz57w3FtNjpNGa\nBLV5g4cePhNLK/slmuhZO94JkpHg/qfCIyr+3DtjiKSLckwn0YT+V823jPf3Uh30\nNVv2cLRgQhjfx0qqNVjPQnqWo+IH2/5ePNYMG8V2mwKBgQDx6n+6fJ6dbX9ZPmgc\nQiECt73JDwZKyTI/1Z7EItu92VAcX867Oe8CL41N/mPU700jRDcjHPvqVOm7yICw\nDyvQl3kHES73hnMPjySC+FNK0N6aZKfUMcda76UysG6nZSQIKle894xf7lzW8PgP\nnDzIN2pp5w4vP3Bfz2ag/lsEZwKBgQDpZnwT49DpbPzAGwHC5BiJvcNWKMCWkh1c\nGb4uqIizZYg2k3e6ppMnKFE/jwP7O3MsJoGEKARoDQK6n9wpAvKy+D0JEeLXnh1l\nCKQE9Cbw4JMlTAEOTzLiZU29PJt3VIHKCg0zJ4SIWUjeYUonu9JHa/NFSpeaEzt5\n0hlqCKE0awKBgQDoq1ldyy3iy8WH1/XZ9+A39PCbx8+NbiTeMF8a1UvzNGdQYvU6\nLWYq/AEz2k+6JM5T9O/y3ZWMs056RUVAD9dcL9M/cM9zUeSoOkwrixrRAkKWy+h+\ntcG/PG3uarKCXUxibhcksBJa0a6JLAnpOaNcDbBTWt7Rono6LAfRH9H6UQKBgQDO\nwDANVnNLM3Y5njLTN0bdTTHp8rOXLdvAKDWmEzj04W3mGn+m4cPcngRK7x8xv5no\ndDuqm+A7Y7sVImLeGXRwQSGgFS4CnlefliXlFXohSm5OTaNpz5JdpitVBIkbDcri\n9EB5Hfpy5dR82WXdCK3fAqs+qDLfE0ZORWSp3vcd/QKBgQCREcp1nrOxD5bhRq4/\nYlx2FCaMIU4vU2yXmbqqg2cQxrmoKbOgQvhFhhJOnw/JlNBIPtk2UNVprHEl3vAS\nIaGoiSmXGEFkXbMq8TOpiWqF/uhdTQFum5GY4TvHKRRYD8QJ6Bb4+mZ0vFlGxaQg\nklohGkOP1oqR7tKn/+zOig/F0g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "windtower-service-account@windtower-rework.iam.gserviceaccount.com",
+  "client_id": "110820894509632231970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/windtower-service-account%40windtower-rework.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
